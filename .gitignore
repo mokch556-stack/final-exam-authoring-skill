@@ -1,0 +1,31 @@
+# 校内真实材料一律不进仓库
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.pdf
+*.ppt
+*.pptx
+*.jpg
+*.jpeg
+*.png
+
+# 学情、成绩、名单
+*成绩*
+*名册*
+*名单*
+*学情*
+*考勤*
+
+# 凭据与本地环境
+*.env
+*credentials*
+*secret*
+*token*
+*.key
+*.pem
+*.pfx
+config.json
+.DS_Store
+Thumbs.db
+__pycache__/

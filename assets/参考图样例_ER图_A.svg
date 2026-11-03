@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="800" viewBox="0 0 1480 800">
+<rect x="0" y="0" width="1480" height="800" fill="#FFFFFF"/>
+<text x="740.0" y="58.8" font-size="30" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">A 卷 第四题（2）参考答案　校园新媒体运营系统 E-R 图</text>
+<text x="740.0" y="92.5" font-size="18" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">矩形为实体，椭圆为属性，菱形为联系；属性名下划横线者为主关键字</text>
+<rect x="95.0" y="370.0" width="190" height="60" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="190" y="408.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">编辑</text>
+<ellipse cx="190.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="190.0" y="257.2" font-size="20" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">编辑编号</text>
+<line x1="150.0" y1="262.4" x2="230.0" y2="262.4" stroke="#000000" stroke-width="2"/>
+<line x1="190.0" y1="275.0" x2="190" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="100.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="100.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">姓名</text>
+<line x1="100.0" y1="530.0" x2="190" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="280.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="280.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">所在学院</text>
+<line x1="280.0" y1="530.0" x2="190" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<rect x="605.0" y="370.0" width="190" height="60" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="700" y="408.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">内容</text>
+<ellipse cx="520.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="520.0" y="257.2" font-size="20" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">内容编号</text>
+<line x1="480.0" y1="262.4" x2="560.0" y2="262.4" stroke="#000000" stroke-width="2"/>
+<line x1="520.0" y1="275.0" x2="700" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="700.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="700.0" y="257.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">标题</text>
+<line x1="700.0" y1="275.0" x2="700" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="880.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="880.0" y="257.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">选题类型</text>
+<line x1="880.0" y1="275.0" x2="700" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="610.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="610.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">发布时间</text>
+<line x1="610.0" y1="530.0" x2="700" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="790.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="790.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">阅读量</text>
+<line x1="790.0" y1="530.0" x2="700" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<rect x="1115.0" y="370.0" width="190" height="60" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="1210" y="408.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">账号</text>
+<ellipse cx="1120.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="1120.0" y="257.2" font-size="20" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">账号编号</text>
+<line x1="1080.0" y1="262.4" x2="1160.0" y2="262.4" stroke="#000000" stroke-width="2"/>
+<line x1="1120.0" y1="275.0" x2="1210" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="1300.0" cy="250" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="1300.0" y="257.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">账号名称</text>
+<line x1="1300.0" y1="275.0" x2="1210" y2="370.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="1120.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="1120.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">所属平台</text>
+<line x1="1120.0" y1="530.0" x2="1210" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<ellipse cx="1300.0" cy="555" rx="84.0" ry="25.0" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+<text x="1300.0" y="562.2" font-size="20" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">粉丝数</text>
+<line x1="1300.0" y1="530.0" x2="1210" y2="430.0" stroke="#000000" stroke-width="1.8"/>
+<polygon points="445.0,358.0 525.0,400 445.0,442.0 365.0,400" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="445.0" y="407.9" font-size="22" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">撰写</text>
+<polygon points="955.0,358.0 1035.0,400 955.0,442.0 875.0,400" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="955.0" y="407.9" font-size="22" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">发布</text>
+<line x1="285.0" y1="400" x2="365.0" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="525.0" y1="400" x2="605.0" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="795.0" y1="400" x2="875.0" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="1035.0" y1="400" x2="1115.0" y2="400" stroke="#000000" stroke-width="1.8"/>
+<text x="325.0" y="374.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">1</text>
+<text x="565.0" y="374.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">N</text>
+<text x="835.0" y="374.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">1</text>
+<text x="1075.0" y="374.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">N</text>
+<text x="740.0" y="716.8" font-size="19" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">联系类型：一名编辑撰写多条内容，一条内容只由一名编辑撰写（1∶N）；一个账号发布多条内容，一条内容只由一个账号发布（1∶N）</text>
+<text x="740.0" y="748.8" font-size="19" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">主关键字：编辑编号、内容编号、账号编号；内容实体中的编辑编号与账号编号作为外部关键字</text>
+</svg>
