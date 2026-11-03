@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640">
+<rect x="0" y="0" width="1600" height="640" fill="#FFFFFF"/>
+<text x="800.0" y="56.8" font-size="30" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">B 卷 第四题（1）参考答案　鼎贡农产品销售管理系统 功能结构图</text>
+<text x="800.0" y="92.5" font-size="18" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">共 3 个子系统、9 个功能模块</text>
+<rect x="610.0" y="118.0" width="380" height="64" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="800.0" y="159.4" font-size="26" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">鼎贡农产品销售管理系统</text>
+<rect x="155.0" y="282.0" width="230" height="56" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="270" y="318.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">农产品管理</text>
+<rect x="64.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="130" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">农产品录入</text>
+<rect x="204.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="270" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">农产品修改</text>
+<rect x="344.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="410" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">农产品查询</text>
+<line x1="270" y1="338" x2="270" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="130" y1="400" x2="410" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="130" y1="400" x2="130" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="270" y1="400" x2="270" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="410" y1="400" x2="410" y2="445" stroke="#000000" stroke-width="1.8"/>
+<rect x="685.0" y="282.0" width="230" height="56" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="800" y="318.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">订单管理</text>
+<rect x="594.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="660" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">订单录入</text>
+<rect x="734.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="800" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">订单修改</text>
+<rect x="874.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="940" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">订单查询</text>
+<line x1="800" y1="338" x2="800" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="660" y1="400" x2="940" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="660" y1="400" x2="660" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="800" y1="400" x2="800" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="940" y1="400" x2="940" y2="445" stroke="#000000" stroke-width="1.8"/>
+<rect x="1215.0" y="282.0" width="230" height="56" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="1330" y="318.6" font-size="24" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">销售统计</text>
+<rect x="1124.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="1190" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">销量统计</text>
+<rect x="1264.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="1330" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">销售额统计</text>
+<rect x="1404.0" y="445.0" width="132" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="2.4"/>
+<text x="1470" y="476.8" font-size="19" font-family="Microsoft YaHei" font-weight="bold" fill="#000000" text-anchor="middle">客户统计</text>
+<line x1="1330" y1="338" x2="1330" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="1190" y1="400" x2="1470" y2="400" stroke="#000000" stroke-width="1.8"/>
+<line x1="1190" y1="400" x2="1190" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="1330" y1="400" x2="1330" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="1470" y1="400" x2="1470" y2="445" stroke="#000000" stroke-width="1.8"/>
+<line x1="800.0" y1="182" x2="800.0" y2="222" stroke="#000000" stroke-width="1.8"/>
+<line x1="270" y1="222" x2="1330" y2="222" stroke="#000000" stroke-width="1.8"/>
+<line x1="270" y1="222" x2="270" y2="282" stroke="#000000" stroke-width="1.8"/>
+<line x1="800" y1="222" x2="800" y2="282" stroke="#000000" stroke-width="1.8"/>
+<line x1="1330" y1="222" x2="1330" y2="282" stroke="#000000" stroke-width="1.8"/>
+<text x="800.0" y="604.5" font-size="18" font-family="Microsoft YaHei" fill="#000000" text-anchor="middle">说明：总功能位于第一层，向下逐层分解；同一层次的功能并列，互不交叉重复。</text>
+</svg>
